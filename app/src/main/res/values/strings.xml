@@ -1,12 +1,9 @@
 <resources>
-    <string name="app_name">My Application</string>
-    <string name="action_settings">Settings</string>
-    <!-- Strings used for fragments for navigation -->
-    <string name="first_fragment_label">First Fragment</string>
-    <string name="second_fragment_label">Second Fragment</string>
-    <string name="next">Next</string>
-    <string name="previous">Previous</string>
-
-    <string name="hello_first_fragment">Hello first fragment</string>
-    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="app_name">Trending Hub</string>
+    <string name="text_trending">Trending</string>
+    <string name="retry_text">Retry</string>
+    <string name="an_alien_is_probably_blocking_your_signal">An alien is probably blocking your signal.</string>
+    <string name="something_went_wrong">Something went wrong..</string>
+    <string name="sort_by_stars">Sort by Stars</string>
+    <string name="sort_by_names">Sort by Names</string>
 </resources>

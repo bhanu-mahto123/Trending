@@ -1,3 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="toolbar_height">56dp</dimen>
+    <dimen name="toolbar_title_size">21dp</dimen>
+    <dimen name="more_button_width">24dp</dimen>
+    <dimen name="more_button_height">24dp</dimen>
+    <dimen name="placeholder_img_width">36dp</dimen>
+    <dimen name="placeholder_img_height">36dp</dimen>
+    <dimen name="placeholder_small_txt_width">100dp</dimen>
+    <dimen name="placeholder_large_text_width">260dp</dimen>
+    <dimen name="author_text_size">12dp</dimen>
+    <dimen name="repo_name_text_size">15dp</dimen>
+    <dimen name="retry_button_height">48dp</dimen>
+    <dimen name="retry_text_size">15dp</dimen>
+    <dimen name="alien_text_size">15dp</dimen>
+    <dimen name="something_text_size">18dp</dimen>
 </resources>
